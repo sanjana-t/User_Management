@@ -13,10 +13,14 @@ Set Up
 
 SQL scripts attached for reference 
 
+Roles -
+
 CREATE TABLE roles (
     id INT AUTO_INCREMENT PRIMARY KEY,
     role_name VARCHAR(50) UNIQUE NOT NULL
 );
+
+Users - 
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -31,7 +35,9 @@ CREATE TABLE users (
 ----------------------------
 
 API DOCUMENTATION -
+
 Download API documentation - [nodejs_authapp.postman_collection.json](https://github.com/user-attachments/files/16404997/nodejs_authapp.postman_collection.json)
+
 Read at - https://github.com/sanjana-t/User_Management/blob/main/nodejs_authapp.postman_collection.json
 
 --------------------------
