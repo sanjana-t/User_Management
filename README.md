@@ -1,4 +1,4 @@
-[nodejs_authapp.postman_collection.json](https://github.com/user-attachments/files/16404997/nodejs_authapp.postman_collection.json)# User_Management
+# User_Management
 
 ---
 Set Up
@@ -30,8 +30,9 @@ CREATE TABLE users (
 
 ----------------------------
 
-API DOCUMENTATION
-https://github.com/sanjana-t/User_Management/blob/main/nodejs_authapp.postman_collection.json
+API DOCUMENTATION -
+Download API documentation - [nodejs_authapp.postman_collection.json](https://github.com/user-attachments/files/16404997/nodejs_authapp.postman_collection.json)
+Read at - https://github.com/sanjana-t/User_Management/blob/main/nodejs_authapp.postman_collection.json
 
 --------------------------
 Features - 
