@@ -8,7 +8,6 @@ async function createUser(firstname, lastname, email, password, roleName) {
     const hashedPassword = await bcrypt.hash(password, salt);
 
     const role = await Role.findOne({ where: { role_name: roleName } });
-    console.log(role);
     if (!role) {
       throw new Error(`Role ${roleName} not found`);
     }
