@@ -51,5 +51,5 @@ Data validation at code level - on all input/post methods is designed.
 Data validation at the database level unique email addresses and role_names.
 4.	Advanced Features:
 Pagination is implemented for listing all users with RBAC .
-Implement input validation using a library like Typebox.
+Implemented input validation using a library Typebox and ajv.
 ORM sequelize of node.js is used as interface with SQL database.
